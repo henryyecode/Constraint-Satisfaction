@@ -1,0 +1,3 @@
+m1:mon 12pm
+m2:tue 9am
+cost:3
